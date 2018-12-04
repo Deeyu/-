@@ -1,6 +1,6 @@
-# wxjsminipro
+# carminipro
 
-> 万顺叫车微信小程序
+> 叫车微信小程序
 
 ## Build Setup
 
